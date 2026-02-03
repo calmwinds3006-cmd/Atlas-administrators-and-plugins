@@ -1,7 +1,6 @@
 # Administrators:
 
-DaxTooManyCOWS, Discord - darshanwin
-OrionFloofs, Discord - orionfluffs
+OrionFloofs,DaxTooManyCOWS
 
 note: this page may not be updated yet
 
