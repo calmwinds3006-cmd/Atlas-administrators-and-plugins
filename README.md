@@ -1,15 +1,14 @@
-# Atlas-administrators-and-plugins
+# Administrators:
 
+DaxTooManyCOWS, Discord - darshanwin
+OrionFloofs, Discord - orionfluffs
 
-Admins:
+note: this page may not be updated yet
 
+# Moderators:
 
-Discord: darshanwin
-DaxTooManyCOWS
+None yet
 
-Discord: orionfluffs - owner
-OrionFloofs
+# Friends:
 
-
-
-All staff may not be here currently or we may have more staff that we have not informed you of yet or have not updated.
+SkillwaveVlogs, Discord - skillwave
